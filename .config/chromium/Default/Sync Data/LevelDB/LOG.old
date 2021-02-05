@@ -1,0 +1,15 @@
+2021/02/05-20:51:38.730 69fe Reusing MANIFEST /home/heaven/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/02/05-20:51:38.731 69fe Recovering log #33
+2021/02/05-20:51:38.731 69fe Reusing old log /home/heaven/.config/chromium/Default/Sync Data/LevelDB/000033.log 
+2021/02/05-21:05:23.601 6fad Level-0 table #37: started
+2021/02/05-21:05:23.610 6fad Level-0 table #37: 113175 bytes OK
+2021/02/05-21:05:23.615 6fad Delete type=0 #33
+2021/02/05-21:05:23.615 6fac Compacting 4@0 + 1@1 files
+2021/02/05-21:05:23.623 6fac Generated table #38@0: 97 keys, 12392 bytes
+2021/02/05-21:05:23.623 6fac Compacted 4@0 + 1@1 files => 12392 bytes
+2021/02/05-21:05:23.628 6fac compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/05-21:05:23.629 6fac Delete type=2 #30
+2021/02/05-21:05:23.629 6fac Delete type=2 #37
+2021/02/05-21:05:23.629 6fac Delete type=2 #32
+2021/02/05-21:05:23.629 6fac Delete type=2 #28
+2021/02/05-21:05:23.629 6fac Delete type=2 #34

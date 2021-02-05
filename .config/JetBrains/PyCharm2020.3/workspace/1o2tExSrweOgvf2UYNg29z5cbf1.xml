@@ -1,0 +1,181 @@
+<project version="4">
+  <component name="FavoritesManager">
+    <favorites_list name="pycharmproject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/simpledesktop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/info">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="11" column="87" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/venv/info" />
+      <option value="$PROJECT_DIR$/simpledesktop.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pycharmproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pycharmproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pycharmproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pycharmproject" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8724000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49889135" visible="true" weight="0.1763754" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.50110865" side_tool="true" visible="true" weight="0.1763754" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.5714286" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.49268842" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.3295838" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39932507" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Flow" order="13" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
+      <window_info anchor="bottom" id="Services" order="15" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="408" y="167" width="1092" height="790" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612517271070">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="408" y="167" width="1092" height="790" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612517271070" />
+    <state x="619" y="303" width="672" height="492" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612520869801">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="619" y="303" width="672" height="492" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1612520869801" />
+    <state x="621" y="273" width="662" height="497" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1612496616276">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="621" y="273" width="662" height="497" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612496616276" />
+    <state x="681" y="238" width="536" height="581" key="FileChooserDialogImpl" timestamp="1612517268792">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="681" y="238" width="536" height="581" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1612517268792" />
+    <state width="1854" height="320" key="GridCell.Tab.0.bottom" timestamp="1612526533456">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612526533456" />
+    <state width="1854" height="320" key="GridCell.Tab.0.center" timestamp="1612526533455">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="320" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612526533455" />
+    <state width="1854" height="320" key="GridCell.Tab.0.left" timestamp="1612526533455">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="320" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612526533455" />
+    <state width="1854" height="320" key="GridCell.Tab.0.right" timestamp="1612526533456">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="320" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612526533456" />
+    <state width="1854" height="320" key="GridCell.Tab.1.bottom" timestamp="1612526533458">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="320" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1612526533458" />
+    <state width="1854" height="320" key="GridCell.Tab.1.center" timestamp="1612526533457">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="320" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1612526533457" />
+    <state width="1854" height="320" key="GridCell.Tab.1.left" timestamp="1612526533457">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="320" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1612526533457" />
+    <state width="1854" height="320" key="GridCell.Tab.1.right" timestamp="1612526533458">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="320" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1612526533458" />
+    <state x="327" y="75" key="SettingsEditor" timestamp="1612520512140">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="327" y="75" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1612520512139" />
+    <state x="518" y="178" width="873" height="742" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1612517110687">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="518" y="178" width="873" height="742" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1612517110687" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="87" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simpledesktop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+2021/02/05-20:51:38.744 3 Reusing MANIFEST /home/heaven/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/02/05-20:51:38.745 3 Recovering log #99
+2021/02/05-20:51:38.746 3 Reusing old log /home/heaven/.config/chromium/Default/Local Storage/leveldb/000099.log 
+2021/02/05-20:54:30.196 3 Level-0 table #103: started
+2021/02/05-20:54:30.212 3 Level-0 table #103: 182063 bytes OK
+2021/02/05-20:54:30.221 3 Delete type=0 #99
+2021/02/05-20:54:30.223 5 Compacting 4@0 + 1@1 files
+2021/02/05-20:54:30.255 5 Generated table #104@0: 509 keys, 286619 bytes
+2021/02/05-20:54:30.255 5 Compacted 4@0 + 1@1 files => 286619 bytes
+2021/02/05-20:54:30.261 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/05-20:54:30.263 5 Delete type=2 #92
+2021/02/05-20:54:30.263 5 Delete type=2 #95
+2021/02/05-20:54:30.263 5 Delete type=2 #103
+2021/02/05-20:54:30.263 5 Delete type=2 #100
+2021/02/05-20:54:30.264 5 Delete type=2 #98
+2021/02/05-20:58:12.138 9 Level-0 table #106: started
+2021/02/05-20:58:12.148 9 Level-0 table #106: 159793 bytes OK
+2021/02/05-20:58:12.154 9 Delete type=0 #102
+2021/02/05-21:02:00.967 5 Level-0 table #108: started
+2021/02/05-21:02:00.976 5 Level-0 table #108: 157602 bytes OK
+2021/02/05-21:02:00.983 5 Delete type=0 #105
+2021/02/05-21:07:20.715 9 Level-0 table #110: started
+2021/02/05-21:07:20.730 9 Level-0 table #110: 163020 bytes OK
+2021/02/05-21:07:20.740 9 Delete type=0 #107

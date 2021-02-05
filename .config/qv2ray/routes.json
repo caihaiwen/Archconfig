@@ -1,0 +1,14 @@
+{
+    "ensqntdhxith": {
+        "connectionConfig": {
+            "withLocalDNS": false
+        },
+        "forwardProxyConfig": {
+            "port": 8008,
+            "serverAddress": "127.0.0.1"
+        },
+        "routeConfig": {
+            "domainStrategy": "AsIs"
+        }
+    }
+}

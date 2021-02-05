@@ -1,0 +1,15 @@
+2021/02/05-20:51:40.283 69f1 Reusing MANIFEST /home/heaven/.config/chromium/Default/Extension State/MANIFEST-000001
+2021/02/05-20:51:40.284 69f1 Recovering log #16
+2021/02/05-20:51:40.298 69f1 Reusing old log /home/heaven/.config/chromium/Default/Extension State/000016.log 
+2021/02/05-20:55:35.058 6bed Level-0 table #20: started
+2021/02/05-20:55:35.086 6bed Level-0 table #20: 2919487 bytes OK
+2021/02/05-20:55:35.094 6bed Delete type=0 #16
+2021/02/05-20:55:35.096 6bef Compacting 4@0 + 1@1 files
+2021/02/05-20:55:35.142 6bef Generated table #21@0: 5 keys, 32381 bytes
+2021/02/05-20:55:35.142 6bef Compacted 4@0 + 1@1 files => 32381 bytes
+2021/02/05-20:55:35.147 6bef compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/05-20:55:35.148 6bef Delete type=2 #20
+2021/02/05-20:55:35.148 6bef Delete type=2 #8
+2021/02/05-20:55:35.148 6bef Delete type=2 #14
+2021/02/05-20:55:35.148 6bef Delete type=2 #11
+2021/02/05-20:55:35.148 6bef Delete type=2 #17

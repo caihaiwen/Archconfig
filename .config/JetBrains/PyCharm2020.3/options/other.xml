@@ -1,0 +1,46 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.25" />
+    <option name="fontSize" value="18" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1o2tExSrweOgvf2UYNg29z5cbf1">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="MarketplacePluginsSearchHistory" value="chinese" />
+    <property name="PACKAGE_FILTER" value="lxml&#10;bs4&#10;requests" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="SettingsSearchHistory" value="日志&#10;日&#10;浏览器" />
+    <property name="appcds.runOnSecondStart" value="PY-203.7148.72-5e8bf94964f28f12762ea6aeb27b7fcbed13ef67c8bcdf199387ce1dd5843690" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Data/pycharmproject/simpledesktop.py" />
+    <property name="file.gist.reindex.count" value="2705" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PY-203.7148.72" />
+    <property name="lastSeenTip" value="neue-TabInEditorClose.html" />
+    <property name="lastTimeTipsWereShown" value="1612496411927" />
+    <property name="seenTips" value="neue-TabInEditorClose.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.1.3" />
+  </component>
+</application>
